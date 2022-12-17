@@ -1,0 +1,16 @@
+Theme(
+    color: {
+        // Console theme.
+        // ////////////////////////////////////////////////////////////////////
+        "console-background": Color(20, 20, 128, 1.0),
+
+        "console-error": Color(255,   0,   0, 1.0),
+        "console-warn" : Color(196, 196,   0, 1.0),
+        "console-info" : Color(  0, 255,   0, 1.0),
+        "console-debug": Color(  0, 128, 255, 1.0),
+        "console-trace": Color(128, 128, 128, 1.0),
+
+        "console-text": Color(196, 196, 196, 1.0),
+        // ////////////////////////////////////////////////////////////////////
+    },
+)
