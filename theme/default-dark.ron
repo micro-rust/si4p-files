@@ -1,4 +1,12 @@
 Theme(
+    name: "default-dark",
+
+    description: "Default theme of the application, dark variant.",
+
+    border: {},
+
+    button: {},
+
     color: {
         // Console theme.
         // ////////////////////////////////////////////////////////////////////
@@ -13,4 +21,18 @@ Theme(
         "console-text": Color(196, 196, 196, 1.0),
         // ////////////////////////////////////////////////////////////////////
     },
+
+    container: {},
+
+    panegrid: {},
+
+    picklist: {},
+
+    progressbar: {},
+
+    scrollable: {},
+
+    textinput: {},
+
+    tooltip: {},
 )
